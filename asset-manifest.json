@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mashroom/static/css/main.faad9985.css",
+    "main.js": "/mashroom/static/js/main.1e1e80ad.js",
+    "static/js/787.bc7d429a.chunk.js": "/mashroom/static/js/787.bc7d429a.chunk.js",
+    "static/media/odesa.png": "/mashroom/static/media/odesa.4fc46a00c25920824348.png",
+    "static/media/kyiv.png": "/mashroom/static/media/kyiv.71d9a39bba903ae34d97.png",
+    "static/media/kharkiv.png": "/mashroom/static/media/kharkiv.0220518300552d1b0288.png",
+    "static/media/lviv.png": "/mashroom/static/media/lviv.3d1a5f8be5881c2f2077.png",
+    "static/media/sliderr.png": "/mashroom/static/media/sliderr.561c97e26f6053eca41d.png",
+    "static/media/slidere.png": "/mashroom/static/media/slidere.c9fd992f1de6185028b3.png",
+    "static/media/sliderq.png": "/mashroom/static/media/sliderq.adb0e83bd541a953bdfb.png",
+    "static/media/sliderw.png": "/mashroom/static/media/sliderw.e43cfffbecf9ce06fa34.png",
+    "static/media/slidert.png": "/mashroom/static/media/slidert.0ac2cd59f1de933cc645.png",
+    "static/media/shopfoto.png": "/mashroom/static/media/shopfoto.c7ecbe0df07d2c8a71c4.png",
+    "static/media/slideru.png": "/mashroom/static/media/slideru.479fead0cbbe1ae4b447.png",
+    "static/media/Caveat-VariableFont_wght.ttf": "/mashroom/static/media/Caveat-VariableFont_wght.834178e16d110b21c85e.ttf",
+    "static/media/aboutTherd.png": "/mashroom/static/media/aboutTherd.1c804e7f2a57d6147db3.png",
+    "static/media/aboutSecond.png": "/mashroom/static/media/aboutSecond.39b4f41f55f0664d814c.png",
+    "static/media/sildery.png": "/mashroom/static/media/sildery.08d9ac29823d0ccad1f7.png",
+    "static/media/KaushanScript-Regular.ttf": "/mashroom/static/media/KaushanScript-Regular.a668b3d996f7c50fb3fe.ttf",
+    "static/media/PermanentMarker-Regular.ttf": "/mashroom/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
+    "index.html": "/mashroom/index.html",
+    "main.faad9985.css.map": "/mashroom/static/css/main.faad9985.css.map",
+    "main.1e1e80ad.js.map": "/mashroom/static/js/main.1e1e80ad.js.map",
+    "787.bc7d429a.chunk.js.map": "/mashroom/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faad9985.css",
+    "static/js/main.1e1e80ad.js"
+  ]
+}
