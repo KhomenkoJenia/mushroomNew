@@ -1,0 +1,67 @@
+.contactBtn {
+  position: relative;
+  position: fixed;
+  top: 80vh;
+  left: 1460px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  border: 2px solid rgb(11, 11, 11);
+  color: rgb(7, 6, 6);
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 12px;
+  gap: 12px;
+  border-radius: 8px;
+  font-family: "Kayshman";
+  font-size: 25px;
+  cursor: pointer;
+}
+.contactBtn:hover {
+  color: rgb(236, 233, 233);
+  transition: 0.9s;
+  transform: scale(1.2);
+}
+.contactBtn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  left: -4px;
+  top: -1px;
+  margin: auto;
+  width: 90px;
+  height: 90px;
+  border-radius: 20px;
+
+  background: linear-gradient(-45deg, #e81cff 0%, #40c9ff 100%);
+  z-index: -1;
+  pointer-events: none;
+  transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.contactBtn::after {
+  content: "";
+  z-index: -2;
+  position: absolute;
+  inset: 0;
+
+  background: linear-gradient(-45deg, #fc00ff 0%, #00dbde 100%);
+  transform: translate3d(0, 0, 0) scale(0.95);
+  filter: blur(20px);
+}
+
+.contactBtn:hover::after {
+  filter: blur(30px);
+}
+
+.contactBtn:hover::before {
+  transform: rotate(-180deg);
+}
+
+.contactBtn:active::before {
+  scale: 0.7;
+}

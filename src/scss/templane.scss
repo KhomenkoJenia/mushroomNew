@@ -1,0 +1,30 @@
+@import "variables.scss";
+
+* {
+  box-sizing: border-box;
+}
+.container-main {
+  max-width: 1920px;
+}
+
+body {
+  font-family: "$font-primary";
+  background-color: $bg-color;
+}
+
+h2 {
+  line-height: 70px;
+  font-weight: 400;
+  font-size: 70px;
+  color: $title-color;
+}
+h5 {
+  line-height: 36px;
+  font-weight: 300;
+  font-size: 28px;
+  color: $subtitle-color;
+  margin-top: 30px;
+}
+.container-rain {
+  padding: 20px 130px;
+}

@@ -1,0 +1,36 @@
+.loader-anima span {
+  font-size: 140px;
+  font-family: "Lobster";
+  font-weight: 800;
+  animation: blur 2s linear infinite;
+  line-height: 120px;
+  transition: all 0.5s;
+  letter-spacing: 0.2em;
+  background: linear-gradient(-45deg, #fc00ff 0%, #00dbde 100%);
+  -webkit-background-clip: text; /* Это для Safari/Chrome */
+  color: transparent;
+}
+.loader-anima {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: rgba(0, 0, 0, 0.663);
+
+  border-radius: 40px;
+}
+span:hover {
+  transform: scale(1.3);
+  transition: 0.7s;
+}
+
+@keyframes blur {
+  0%,
+  90% {
+    filter: blur(0);
+  }
+
+  50% {
+    filter: blur(10px);
+  }
+}
