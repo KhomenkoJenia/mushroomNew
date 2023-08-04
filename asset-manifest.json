@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mushroomNew/static/css/main.488b8bb8.css",
+    "main.css": "/mushroomNew/static/css/main.9b368b42.css",
     "main.js": "/mushroomNew/static/js/main.e4a29fb4.js",
     "static/js/787.bc7d429a.chunk.js": "/mushroomNew/static/js/787.bc7d429a.chunk.js",
     "static/media/odesa.png": "/mushroomNew/static/media/odesa.4fc46a00c25920824348.png",
@@ -21,12 +21,12 @@
     "static/media/KaushanScript-Regular.ttf": "/mushroomNew/static/media/KaushanScript-Regular.a668b3d996f7c50fb3fe.ttf",
     "static/media/PermanentMarker-Regular.ttf": "/mushroomNew/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
     "index.html": "/mushroomNew/index.html",
-    "main.488b8bb8.css.map": "/mushroomNew/static/css/main.488b8bb8.css.map",
+    "main.9b368b42.css.map": "/mushroomNew/static/css/main.9b368b42.css.map",
     "main.e4a29fb4.js.map": "/mushroomNew/static/js/main.e4a29fb4.js.map",
     "787.bc7d429a.chunk.js.map": "/mushroomNew/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.488b8bb8.css",
+    "static/css/main.9b368b42.css",
     "static/js/main.e4a29fb4.js"
   ]
 }
